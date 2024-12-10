@@ -1,0 +1,161 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{ConjugateTD}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=99c7726a265883884447d545d1f53755}{%
+           family={Altahhan},
+           familyi={A\bibinitperiod},
+           given={Abdulrahman},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{99c7726a265883884447d545d1f53755}
+      \strng{fullhash}{99c7726a265883884447d545d1f53755}
+      \strng{bibnamehash}{99c7726a265883884447d545d1f53755}
+      \strng{authorbibnamehash}{99c7726a265883884447d545d1f53755}
+      \strng{authornamehash}{99c7726a265883884447d545d1f53755}
+      \strng{authorfullhash}{99c7726a265883884447d545d1f53755}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The 2010 International Joint Conference on Neural Networks (IJCNN)}
+      \field{title}{Robot visual homing using conjugate gradient Temporal Difference learning, radial basis features and a whole image measure}
+      \field{year}{2010}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/IJCNN.2010.5596784
+      \endverb
+    \endentry
+    \entry{TD0-Replay}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=99c7726a265883884447d545d1f53755}{%
+           family={Altahhan},
+           familyi={A\bibinitperiod},
+           given={Abdulrahman},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{99c7726a265883884447d545d1f53755}
+      \strng{fullhash}{99c7726a265883884447d545d1f53755}
+      \strng{bibnamehash}{99c7726a265883884447d545d1f53755}
+      \strng{authorbibnamehash}{99c7726a265883884447d545d1f53755}
+      \strng{authornamehash}{99c7726a265883884447d545d1f53755}
+      \strng{authorfullhash}{99c7726a265883884447d545d1f53755}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2018 International Joint Conference on Neural Networks (IJCNN)}
+      \field{title}{TD(0)-Replay: An Efficient Model-Free Planning with full Replay}
+      \field{year}{2018}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/IJCNN.2018.8489300
+      \endverb
+    \endentry
+    \entry{TD-Replay}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=99c7726a265883884447d545d1f53755}{%
+           family={Altahhan},
+           familyi={A\bibinitperiod},
+           given={Abdulrahman},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{99c7726a265883884447d545d1f53755}
+      \strng{fullhash}{99c7726a265883884447d545d1f53755}
+      \strng{bibnamehash}{99c7726a265883884447d545d1f53755}
+      \strng{authorbibnamehash}{99c7726a265883884447d545d1f53755}
+      \strng{authornamehash}{99c7726a265883884447d545d1f53755}
+      \strng{authorfullhash}{99c7726a265883884447d545d1f53755}
+      \field{extraname}{3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2020 International Joint Conference on Neural Networks (IJCNN)}
+      \field{title}{True Online TD($\lambda$)-Replay An Efficient Model-free Planning with Full Replay}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/IJCNN48605.2020.9206608
+      \endverb
+    \endentry
+    \entry{NuclearPlant}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=0832bf28de746a71e269acbdf4173c58}{%
+           family={Naimi},
+           familyi={N\bibinitperiod},
+           given={Amine},
+           giveni={A\bibinitperiod}}}%
+        {{hash=42095ef02bedcec6a6afd0d1a48a171d}{%
+           family={Deng},
+           familyi={D\bibinitperiod},
+           given={Jiamei},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7349288f406d9e8b6baa436466c3ed8b}{%
+           family={Abdulrahman},
+           familyi={A\bibinitperiod},
+           given={Altahhan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c50335d744075f5924da82460753b1af}{%
+           family={Vajpayee},
+           familyi={V\bibinitperiod},
+           given={Vineet},
+           giveni={V\bibinitperiod}}}%
+        {{hash=beb4b57f81d50f9fe627fe2199579072}{%
+           family={Becerra},
+           familyi={B\bibinitperiod},
+           given={Victor},
+           giveni={V\bibinitperiod}}}%
+        {{hash=2ff0852ec62193b805207ebb7e63d2fe}{%
+           family={Bausch},
+           familyi={B\bibinitperiod},
+           given={Nils},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{3150d702459c4086d23d741481061c98}
+      \strng{fullhash}{98ac093d3ad33b522b4f60c0800b397b}
+      \strng{bibnamehash}{3150d702459c4086d23d741481061c98}
+      \strng{authorbibnamehash}{3150d702459c4086d23d741481061c98}
+      \strng{authornamehash}{3150d702459c4086d23d741481061c98}
+      \strng{authorfullhash}{98ac093d3ad33b522b4f60c0800b397b}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2020 8th International Conference on Control, Mechatronics and Automation (ICCMA)}
+      \field{title}{Dynamic Neural Network-based System Identification of a Pressurized Water Reactor}
+      \field{year}{2020}
+      \field{pages}{100\bibrangedash 104}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/ICCMA51325.2020.9301483
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
