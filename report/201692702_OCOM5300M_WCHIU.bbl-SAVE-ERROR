@@ -1,0 +1,349 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{pmlr-v155-anderson21a}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=53830234a962270a4cb0ed690d61a71c}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=e038b9b07b0ee13aa3788e3845d8f92f}{%
+           family={Shrivastava},
+           familyi={S\bibinitperiod},
+           given={Ayush},
+           giveni={A\bibinitperiod}}}%
+        {{hash=139304df592b7e72c310886e63dbbf7e}{%
+           family={Truong},
+           familyi={T\bibinitperiod},
+           given={Joanne},
+           giveni={J\bibinitperiod}}}%
+        {{hash=348b9fc8105c18271a052b1463420839}{%
+           family={Majumdar},
+           familyi={M\bibinitperiod},
+           given={Arjun},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d0ab7a4601951a0c59352f1dcb531afb}{%
+           family={Parikh},
+           familyi={P\bibinitperiod},
+           given={Devi},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d0a408119272ca1bd49b625e3b927d05}{%
+           family={Batra},
+           familyi={B\bibinitperiod},
+           given={Dhruv},
+           giveni={D\bibinitperiod}}}%
+        {{hash=571d2d1449f75b0c538caca8aa9bf4b6}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=c1af96639c1bc5af057c028f303f6322}{%
+           family={Kober},
+           familyi={K\bibinitperiod},
+           given={Jens},
+           giveni={J\bibinitperiod}}}%
+        {{hash=506f85a881fe35bf140a4b7d845c70d7}{%
+           family={Ramos},
+           familyi={R\bibinitperiod},
+           given={Fabio},
+           giveni={F\bibinitperiod}}}%
+        {{hash=709855948ec649409743a85b23989879}{%
+           family={Tomlin},
+           familyi={T\bibinitperiod},
+           given={Claire},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {PMLR}%
+      }
+      \strng{namehash}{1c6424238424627553d58e0ce02a68ea}
+      \strng{fullhash}{b56cbdb3eb9a1e7b4aea8d43775d0e17}
+      \strng{bibnamehash}{1c6424238424627553d58e0ce02a68ea}
+      \strng{authorbibnamehash}{1c6424238424627553d58e0ce02a68ea}
+      \strng{authornamehash}{1c6424238424627553d58e0ce02a68ea}
+      \strng{authorfullhash}{b56cbdb3eb9a1e7b4aea8d43775d0e17}
+      \strng{editorbibnamehash}{d29ad01cbeaea27d6c561024e59cbdf2}
+      \strng{editornamehash}{d29ad01cbeaea27d6c561024e59cbdf2}
+      \strng{editorfullhash}{d29ad01cbeaea27d6c561024e59cbdf2}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We study the challenging problem of releasing a robot in a previously unseen environment, and having it follow unconstrained natural language navigation instructions. Recent work on the task of Vision-and-Language Navigation (VLN) has achieved significant progress in simulation. To assess the implications of this work for robotics, we transfer a VLN agent trained in simulation to a physical robot. To bridge the gap between the high-level discrete action space learned by the VLN agent, and the robot’s low-level continuous action space, we propose a subgoal model to identify nearby waypoints, and use domain randomization to mitigate visual domain differences. For accurate sim and real comparisons in parallel environments, we annotate a 325m2 office space with 1.3km of navigation instructions, and create a digitized replica in simulation. We find that sim-to-real transfer to an environment not seen in training is successful if an occupancy map and navigation graph can be collected and annotated in advance (success rate of 46.8% vs. 55.9% in sim), but much more challenging in the hardest setting with no prior mapping at all (success rate of 22.5%).}
+      \field{booktitle}{Proceedings of the 2020 Conference on Robot Learning}
+      \field{month}{16--18 Nov}
+      \field{series}{Proceedings of Machine Learning Research}
+      \field{title}{Sim-to-Real Transfer for Vision-and-Language Navigation}
+      \field{volume}{155}
+      \field{year}{2021}
+      \field{pages}{671\bibrangedash 681}
+      \range{pages}{11}
+      \verb{file}
+      \verb https://proceedings.mlr.press/v155/anderson21a/anderson21a.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://proceedings.mlr.press/v155/anderson21a.html
+      \endverb
+      \verb{url}
+      \verb https://proceedings.mlr.press/v155/anderson21a.html
+      \endverb
+    \endentry
+    \entry{8578485}{inproceedings}{}
+      \name{author}{9}{}{%
+        {{hash=53830234a962270a4cb0ed690d61a71c}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ab26ea276dd092108bc9882d0f3195c3}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Qi},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=5d52e78ec742dfb2edb0d24e50fe49ee}{%
+           family={Teney},
+           familyi={T\bibinitperiod},
+           given={Damien},
+           giveni={D\bibinitperiod}}}%
+        {{hash=5b2c0795367c8b133d89c2f76ed4b719}{%
+           family={Bruce},
+           familyi={B\bibinitperiod},
+           given={Jake},
+           giveni={J\bibinitperiod}}}%
+        {{hash=36abc6d98046449ff16c432759b3fcd6}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6ba508d2ccb55a59542ff5049b5b3197}{%
+           family={Sünderhauf},
+           familyi={S\bibinitperiod},
+           given={Niko},
+           giveni={N\bibinitperiod}}}%
+        {{hash=8d82839be6afd59c432fc7cf084f4326}{%
+           family={Reid},
+           familyi={R\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+        {{hash=f14c13ced8d9482f2ca6979151a9a688}{%
+           family={Gould},
+           familyi={G\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fe8427ffc202d41693ef556d31fbbe6b}{%
+           family={Hengel},
+           familyi={H\bibinitperiod},
+           given={Anton},
+           giveni={A\bibinitperiod},
+           prefix={van\bibnamedelima den},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \strng{namehash}{1c6424238424627553d58e0ce02a68ea}
+      \strng{fullhash}{48b21afb2677517196b6faef4bed4c4d}
+      \strng{bibnamehash}{1c6424238424627553d58e0ce02a68ea}
+      \strng{authorbibnamehash}{1c6424238424627553d58e0ce02a68ea}
+      \strng{authornamehash}{1c6424238424627553d58e0ce02a68ea}
+      \strng{authorfullhash}{48b21afb2677517196b6faef4bed4c4d}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition}
+      \field{title}{Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments}
+      \field{year}{2018}
+      \field{pages}{3674\bibrangedash 3683}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/CVPR.2018.00387
+      \endverb
+      \keyw{Navigation;Task analysis;Robots;Visualization;Cameras;Three-dimensional displays;Natural languages}
+    \endentry
+    \entry{krantz2020navgraphvisionandlanguagenavigationcontinuous}{inproceedingsc}{}
+      \name{author}{5}{}{%
+        {{hash=c6e2741df32882c7ebcdef0e947ee991}{%
+           family={Krantz},
+           familyi={K\bibinitperiod},
+           given={Jacob},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9e9515b35f1161d2ea10f097e0222638}{%
+           family={Wijmans},
+           familyi={W\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod}}}%
+        {{hash=348b9fc8105c18271a052b1463420839}{%
+           family={Majumdar},
+           familyi={M\bibinitperiod},
+           given={Arjun},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d0a408119272ca1bd49b625e3b927d05}{%
+           family={Batra},
+           familyi={B\bibinitperiod},
+           given={Dhruv},
+           giveni={D\bibinitperiod}}}%
+        {{hash=571d2d1449f75b0c538caca8aa9bf4b6}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{d5ee70632d4f8bbe6a7aa832cd042552}
+      \strng{fullhash}{36d1062b169d92e582982d210fd51a71}
+      \strng{bibnamehash}{d5ee70632d4f8bbe6a7aa832cd042552}
+      \strng{authorbibnamehash}{d5ee70632d4f8bbe6a7aa832cd042552}
+      \strng{authornamehash}{d5ee70632d4f8bbe6a7aa832cd042552}
+      \strng{authorfullhash}{36d1062b169d92e582982d210fd51a71}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.CV}
+      \field{eprinttype}{arXiv}
+      \field{title}{Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments}
+      \field{year}{2020}
+      \verb{eprint}
+      \verb 2004.02857
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2004.02857
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2004.02857
+      \endverb
+    \endentry
+    \entry{attenion_is_all_you_need}{inproceedings}{}
+      \name{author}{8}{}{%
+        {{hash=7f28e84700536646dd6620a0db07ad09}{%
+           family={Vaswani},
+           familyi={V\bibinitperiod},
+           given={Ashish},
+           giveni={A\bibinitperiod}}}%
+        {{hash=62efade83d70f0323fe248755e6c90c5}{%
+           family={Shazeer},
+           familyi={S\bibinitperiod},
+           given={Noam},
+           giveni={N\bibinitperiod}}}%
+        {{hash=06649ebab1ea5cac0250746a19764975}{%
+           family={Parmar},
+           familyi={P\bibinitperiod},
+           given={Niki},
+           giveni={N\bibinitperiod}}}%
+        {{hash=831027ee0ebf22375e2a86afc1881909}{%
+           family={Uszkoreit},
+           familyi={U\bibinitperiod},
+           given={Jakob},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2fd2982e30ebcec93ec1cf76e0d797fd}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Llion},
+           giveni={L\bibinitperiod}}}%
+        {{hash=27b07e4eacbf4ef7a1438e3badb7dd8d}{%
+           family={Gomez},
+           familyi={G\bibinitperiod},
+           given={Aidan\bibnamedelima N},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=540fcd72e1fa4bbed46604f4e6cff817}{%
+           family={Kaiser},
+           familyi={K\bibinitperiod},
+           given={Łukasz},
+           giveni={Ł\bibinitperiod}}}%
+        {{hash=95595a0fefb86187cbc36e551017d332}{%
+           family={Polosukhin},
+           familyi={P\bibinitperiod},
+           given={Illia},
+           giveni={I\bibinitperiod}}}%
+      }
+      \name{editor}{7}{}{%
+        {{hash=e7e74de725116358b68a6e890c026145}{%
+           family={Guyon},
+           familyi={G\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=3b118a9660c18913c6d05d3bcfae41a3}{%
+           family={Luxburg},
+           familyi={L\bibinitperiod},
+           given={U.\bibnamedelimi Von},
+           giveni={U\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=9b411b6c9cefdde16ffea77ecf612142}{%
+           family={Bengio},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1444141e07dd9549dbb4b8530fe4ec15}{%
+           family={Wallach},
+           familyi={W\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=f3857e15544199442f3d4fb2cf6645b4}{%
+           family={Fergus},
+           familyi={F\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c73f06e2fc98c9b0bf52eb5fdce61943}{%
+           family={Vishwanathan},
+           familyi={V\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=36b98b7ab533936cf1b5716148de704f}{%
+           family={Garnett},
+           familyi={G\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Curran Associates, Inc.}%
+      }
+      \strng{namehash}{ee273ab30cfb889666f8c4d806eb9ce7}
+      \strng{fullhash}{cb26e47f6b8133865271fc8483132297}
+      \strng{bibnamehash}{ee273ab30cfb889666f8c4d806eb9ce7}
+      \strng{authorbibnamehash}{ee273ab30cfb889666f8c4d806eb9ce7}
+      \strng{authornamehash}{ee273ab30cfb889666f8c4d806eb9ce7}
+      \strng{authorfullhash}{cb26e47f6b8133865271fc8483132297}
+      \strng{editorbibnamehash}{7cffda9a379be8eb9063eee4eb0f58b3}
+      \strng{editornamehash}{7cffda9a379be8eb9063eee4eb0f58b3}
+      \strng{editorfullhash}{1564f811a39f09a7400a11284c987926}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advances in Neural Information Processing Systems}
+      \field{title}{Attention is All you Need}
+      \field{volume}{30}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
+      \endverb
+      \verb{url}
+      \verb https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{ConjugateTD}
+  \missing{TD-Replay}
+  \missing{TD0-Replay}
+\endrefsection
+\endinput
+

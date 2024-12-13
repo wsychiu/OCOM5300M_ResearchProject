@@ -19,143 +19,760 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
-    \entry{ConjugateTD}{inproceedings}{}
-      \name{author}{1}{}{%
-        {{hash=99c7726a265883884447d545d1f53755}{%
-           family={Altahhan},
+    \entry{pmlr-v155-anderson21a}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=53830234a962270a4cb0ed690d61a71c}{%
+           family={Anderson},
            familyi={A\bibinitperiod},
-           given={Abdulrahman},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=e038b9b07b0ee13aa3788e3845d8f92f}{%
+           family={Shrivastava},
+           familyi={S\bibinitperiod},
+           given={Ayush},
            giveni={A\bibinitperiod}}}%
+        {{hash=139304df592b7e72c310886e63dbbf7e}{%
+           family={Truong},
+           familyi={T\bibinitperiod},
+           given={Joanne},
+           giveni={J\bibinitperiod}}}%
+        {{hash=348b9fc8105c18271a052b1463420839}{%
+           family={Majumdar},
+           familyi={M\bibinitperiod},
+           given={Arjun},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d0ab7a4601951a0c59352f1dcb531afb}{%
+           family={Parikh},
+           familyi={P\bibinitperiod},
+           given={Devi},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d0a408119272ca1bd49b625e3b927d05}{%
+           family={Batra},
+           familyi={B\bibinitperiod},
+           given={Dhruv},
+           giveni={D\bibinitperiod}}}%
+        {{hash=571d2d1449f75b0c538caca8aa9bf4b6}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
       }
-      \strng{namehash}{99c7726a265883884447d545d1f53755}
-      \strng{fullhash}{99c7726a265883884447d545d1f53755}
-      \strng{bibnamehash}{99c7726a265883884447d545d1f53755}
-      \strng{authorbibnamehash}{99c7726a265883884447d545d1f53755}
-      \strng{authornamehash}{99c7726a265883884447d545d1f53755}
-      \strng{authorfullhash}{99c7726a265883884447d545d1f53755}
+      \name{editor}{3}{}{%
+        {{hash=c1af96639c1bc5af057c028f303f6322}{%
+           family={Kober},
+           familyi={K\bibinitperiod},
+           given={Jens},
+           giveni={J\bibinitperiod}}}%
+        {{hash=506f85a881fe35bf140a4b7d845c70d7}{%
+           family={Ramos},
+           familyi={R\bibinitperiod},
+           given={Fabio},
+           giveni={F\bibinitperiod}}}%
+        {{hash=709855948ec649409743a85b23989879}{%
+           family={Tomlin},
+           familyi={T\bibinitperiod},
+           given={Claire},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {PMLR}%
+      }
+      \strng{namehash}{1c6424238424627553d58e0ce02a68ea}
+      \strng{fullhash}{b56cbdb3eb9a1e7b4aea8d43775d0e17}
+      \strng{bibnamehash}{1c6424238424627553d58e0ce02a68ea}
+      \strng{authorbibnamehash}{1c6424238424627553d58e0ce02a68ea}
+      \strng{authornamehash}{1c6424238424627553d58e0ce02a68ea}
+      \strng{authorfullhash}{b56cbdb3eb9a1e7b4aea8d43775d0e17}
+      \strng{editorbibnamehash}{d29ad01cbeaea27d6c561024e59cbdf2}
+      \strng{editornamehash}{d29ad01cbeaea27d6c561024e59cbdf2}
+      \strng{editorfullhash}{d29ad01cbeaea27d6c561024e59cbdf2}
       \field{extraname}{1}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{The 2010 International Joint Conference on Neural Networks (IJCNN)}
-      \field{title}{Robot visual homing using conjugate gradient Temporal Difference learning, radial basis features and a whole image measure}
-      \field{year}{2010}
-      \field{pages}{1\bibrangedash 10}
-      \range{pages}{10}
-      \verb{doi}
-      \verb 10.1109/IJCNN.2010.5596784
+      \field{booktitle}{Proceedings of the 2020 Conference on Robot Learning}
+      \field{month}{16--18 Nov}
+      \field{series}{Proceedings of Machine Learning Research}
+      \field{title}{Sim-to-Real Transfer for Vision-and-Language Navigation}
+      \field{volume}{155}
+      \field{year}{2021}
+      \field{pages}{671\bibrangedash 681}
+      \range{pages}{11}
+      \verb{file}
+      \verb https://proceedings.mlr.press/v155/anderson21a/anderson21a.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://proceedings.mlr.press/v155/anderson21a.html
+      \endverb
+      \verb{url}
+      \verb https://proceedings.mlr.press/v155/anderson21a.html
       \endverb
     \endentry
-    \entry{TD0-Replay}{inproceedings}{}
-      \name{author}{1}{}{%
-        {{hash=99c7726a265883884447d545d1f53755}{%
-           family={Altahhan},
+    \entry{8578485}{inproceedings}{}
+      \name{author}{9}{}{%
+        {{hash=53830234a962270a4cb0ed690d61a71c}{%
+           family={Anderson},
            familyi={A\bibinitperiod},
-           given={Abdulrahman},
-           giveni={A\bibinitperiod}}}%
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ab26ea276dd092108bc9882d0f3195c3}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Qi},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=5d52e78ec742dfb2edb0d24e50fe49ee}{%
+           family={Teney},
+           familyi={T\bibinitperiod},
+           given={Damien},
+           giveni={D\bibinitperiod}}}%
+        {{hash=5b2c0795367c8b133d89c2f76ed4b719}{%
+           family={Bruce},
+           familyi={B\bibinitperiod},
+           given={Jake},
+           giveni={J\bibinitperiod}}}%
+        {{hash=36abc6d98046449ff16c432759b3fcd6}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6ba508d2ccb55a59542ff5049b5b3197}{%
+           family={Sünderhauf},
+           familyi={S\bibinitperiod},
+           given={Niko},
+           giveni={N\bibinitperiod}}}%
+        {{hash=8d82839be6afd59c432fc7cf084f4326}{%
+           family={Reid},
+           familyi={R\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+        {{hash=f14c13ced8d9482f2ca6979151a9a688}{%
+           family={Gould},
+           familyi={G\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fe8427ffc202d41693ef556d31fbbe6b}{%
+           family={Hengel},
+           familyi={H\bibinitperiod},
+           given={Anton},
+           giveni={A\bibinitperiod},
+           prefix={van\bibnamedelima den},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
       }
-      \strng{namehash}{99c7726a265883884447d545d1f53755}
-      \strng{fullhash}{99c7726a265883884447d545d1f53755}
-      \strng{bibnamehash}{99c7726a265883884447d545d1f53755}
-      \strng{authorbibnamehash}{99c7726a265883884447d545d1f53755}
-      \strng{authornamehash}{99c7726a265883884447d545d1f53755}
-      \strng{authorfullhash}{99c7726a265883884447d545d1f53755}
+      \strng{namehash}{1c6424238424627553d58e0ce02a68ea}
+      \strng{fullhash}{48b21afb2677517196b6faef4bed4c4d}
+      \strng{bibnamehash}{1c6424238424627553d58e0ce02a68ea}
+      \strng{authorbibnamehash}{1c6424238424627553d58e0ce02a68ea}
+      \strng{authornamehash}{1c6424238424627553d58e0ce02a68ea}
+      \strng{authorfullhash}{48b21afb2677517196b6faef4bed4c4d}
       \field{extraname}{2}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{2018 International Joint Conference on Neural Networks (IJCNN)}
-      \field{title}{TD(0)-Replay: An Efficient Model-Free Planning with full Replay}
+      \field{booktitle}{2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition}
+      \field{title}{Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments}
       \field{year}{2018}
-      \field{pages}{1\bibrangedash 7}
-      \range{pages}{7}
+      \field{pages}{3674\bibrangedash 3683}
+      \range{pages}{10}
       \verb{doi}
-      \verb 10.1109/IJCNN.2018.8489300
+      \verb 10.1109/CVPR.2018.00387
       \endverb
+      \keyw{Navigation;Task analysis;Robots;Visualization;Cameras;Three-dimensional displays;Natural languages}
     \endentry
-    \entry{TD-Replay}{inproceedings}{}
-      \name{author}{1}{}{%
-        {{hash=99c7726a265883884447d545d1f53755}{%
-           family={Altahhan},
-           familyi={A\bibinitperiod},
-           given={Abdulrahman},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{99c7726a265883884447d545d1f53755}
-      \strng{fullhash}{99c7726a265883884447d545d1f53755}
-      \strng{bibnamehash}{99c7726a265883884447d545d1f53755}
-      \strng{authorbibnamehash}{99c7726a265883884447d545d1f53755}
-      \strng{authornamehash}{99c7726a265883884447d545d1f53755}
-      \strng{authorfullhash}{99c7726a265883884447d545d1f53755}
-      \field{extraname}{3}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{2020 International Joint Conference on Neural Networks (IJCNN)}
-      \field{title}{True Online TD($\lambda$)-Replay An Efficient Model-free Planning with Full Replay}
-      \field{year}{2020}
-      \field{pages}{1\bibrangedash 7}
-      \range{pages}{7}
-      \verb{doi}
-      \verb 10.1109/IJCNN48605.2020.9206608
-      \endverb
-    \endentry
-    \entry{NuclearPlant}{inproceedings}{}
+    \entry{chen2024mapgptmapguidedpromptingadaptive}{online}{}
       \name{author}{6}{}{%
-        {{hash=0832bf28de746a71e269acbdf4173c58}{%
-           family={Naimi},
-           familyi={N\bibinitperiod},
-           given={Amine},
-           giveni={A\bibinitperiod}}}%
-        {{hash=42095ef02bedcec6a6afd0d1a48a171d}{%
-           family={Deng},
-           familyi={D\bibinitperiod},
-           given={Jiamei},
+        {{hash=cafe64f078339999e9287b71f1a14f29}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Jiaqi},
            giveni={J\bibinitperiod}}}%
-        {{hash=7349288f406d9e8b6baa436466c3ed8b}{%
-           family={Abdulrahman},
-           familyi={A\bibinitperiod},
-           given={Altahhan},
-           giveni={A\bibinitperiod}}}%
-        {{hash=c50335d744075f5924da82460753b1af}{%
-           family={Vajpayee},
-           familyi={V\bibinitperiod},
-           given={Vineet},
-           giveni={V\bibinitperiod}}}%
-        {{hash=beb4b57f81d50f9fe627fe2199579072}{%
-           family={Becerra},
-           familyi={B\bibinitperiod},
-           given={Victor},
-           giveni={V\bibinitperiod}}}%
-        {{hash=2ff0852ec62193b805207ebb7e63d2fe}{%
-           family={Bausch},
-           familyi={B\bibinitperiod},
-           given={Nils},
-           giveni={N\bibinitperiod}}}%
+        {{hash=4e7a4db6c96664d488b67631d79d23dd}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Bingqian},
+           giveni={B\bibinitperiod}}}%
+        {{hash=0ffff6c439a8f53ff7ba957ad15e6170}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Ran},
+           giveni={R\bibinitperiod}}}%
+        {{hash=d7a584f2c5f1043cb5eb0dd69a74d040}{%
+           family={Chai},
+           familyi={C\bibinitperiod},
+           given={Zhenhua},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=ed0317356692f8fc4be95fe54ddaa3df}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Xiaodan},
+           giveni={X\bibinitperiod}}}%
+        {{hash=354bd1d7ea9bb67c8a1c6f6a9ded931a}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={Kwan-Yee\bibnamedelima K.},
+           giveni={K\bibinithyphendelim Y\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
       }
-      \strng{namehash}{3150d702459c4086d23d741481061c98}
-      \strng{fullhash}{98ac093d3ad33b522b4f60c0800b397b}
-      \strng{bibnamehash}{3150d702459c4086d23d741481061c98}
-      \strng{authorbibnamehash}{3150d702459c4086d23d741481061c98}
-      \strng{authornamehash}{3150d702459c4086d23d741481061c98}
-      \strng{authorfullhash}{98ac093d3ad33b522b4f60c0800b397b}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \strng{namehash}{e22e8003bf798efbf436243fdd9bcf7c}
+      \strng{fullhash}{b6420e8455077385e8fe69bde61bcd53}
+      \strng{bibnamehash}{e22e8003bf798efbf436243fdd9bcf7c}
+      \strng{authorbibnamehash}{e22e8003bf798efbf436243fdd9bcf7c}
+      \strng{authornamehash}{e22e8003bf798efbf436243fdd9bcf7c}
+      \strng{authorfullhash}{b6420e8455077385e8fe69bde61bcd53}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{2020 8th International Conference on Control, Mechatronics and Automation (ICCMA)}
-      \field{title}{Dynamic Neural Network-based System Identification of a Pressurized Water Reactor}
-      \field{year}{2020}
-      \field{pages}{100\bibrangedash 104}
-      \range{pages}{5}
-      \verb{doi}
-      \verb 10.1109/ICCMA51325.2020.9301483
+      \field{eprintclass}{cs.AI}
+      \field{eprinttype}{arXiv}
+      \field{title}{MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation}
+      \field{year}{2024}
+      \verb{eprint}
+      \verb 2401.07314
       \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2401.07314
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2401.07314
+      \endverb
+    \endentry
+    \entry{chen2021_HAMT}{article}{}
+      \name{author}{4}{}{%
+        {{hash=dcda1aed061135e8e22df92323170970}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Shizhe},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1d2b1f70919fa2bd965b73544b0cd81d}{%
+           family={Guhur},
+           familyi={G\bibinitperiod},
+           given={Pierre-Louis},
+           giveni={P\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=58e4a9845eac42a4b0e5205cf0970fc0}{%
+           family={Schmid},
+           familyi={S\bibinitperiod},
+           given={Cordelia},
+           giveni={C\bibinitperiod}}}%
+        {{hash=91122039bd34bd0a796ccae30967fd3c}{%
+           family={Laptev},
+           familyi={L\bibinitperiod},
+           given={Ivan},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{e19f16ab8710c45d0916f2c19ed506cb}
+      \strng{fullhash}{7f4a4b056857dbf621774478c588c156}
+      \strng{bibnamehash}{e19f16ab8710c45d0916f2c19ed506cb}
+      \strng{authorbibnamehash}{e19f16ab8710c45d0916f2c19ed506cb}
+      \strng{authornamehash}{e19f16ab8710c45d0916f2c19ed506cb}
+      \strng{authorfullhash}{7f4a4b056857dbf621774478c588c156}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in neural information processing systems}
+      \field{title}{History aware multimodal transformer for vision-and-language navigation}
+      \field{volume}{34}
+      \field{year}{2021}
+      \field{pages}{5834\bibrangedash 5847}
+      \range{pages}{14}
+    \endentry
+    \entry{HE2024110511_MemoryAdaptiveVLN}{article}{}
+      \name{author}{6}{}{%
+        {{hash=77a453211d0da8bf146fac409a8ed6fb}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Keji},
+           giveni={K\bibinitperiod}}}%
+        {{hash=a8587999bf67fc9fad460c37416d8b7b}{%
+           family={Jing},
+           familyi={J\bibinitperiod},
+           given={Ya},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=c85126decc8fb002d0c215d2a31a306d}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=b7b6dfd84b9520c89f3911c2b96109ef}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Zhihe},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=f7c7b2f1ff77d86cd6974bf3964beff6}{%
+           family={An},
+           familyi={A\bibinitperiod},
+           given={Dong},
+           giveni={D\bibinitperiod}}}%
+        {{hash=cce05cab2c437e9c128f853684ee3137}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Liang},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{3409d0bc07d1f81b2c828e31c79dfb75}
+      \strng{fullhash}{866c67ec64483c3b8e8d14e9b69e3f0b}
+      \strng{bibnamehash}{3409d0bc07d1f81b2c828e31c79dfb75}
+      \strng{authorbibnamehash}{3409d0bc07d1f81b2c828e31c79dfb75}
+      \strng{authornamehash}{3409d0bc07d1f81b2c828e31c79dfb75}
+      \strng{authorfullhash}{866c67ec64483c3b8e8d14e9b69e3f0b}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0031-3203}
+      \field{journaltitle}{Pattern Recognition}
+      \field{title}{Memory-Adaptive Vision-and-Language Navigation}
+      \field{volume}{153}
+      \field{year}{2024}
+      \field{pages}{110511}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.patcog.2024.110511
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0031320324002620
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0031320324002620
+      \endverb
+    \endentry
+    \entry{hong2021_vlnbert}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=a290e47443e8a29c4c2ad731495b789d}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Yicong},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=ab26ea276dd092108bc9882d0f3195c3}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Qi},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=19ca918e0a0890be9bf5f41e383d50be}{%
+           family={Qi},
+           familyi={Q\bibinitperiod},
+           given={Yuankai},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=9f1ca461134d8ef2b59140ab1d50a304}{%
+           family={Rodriguez-Opazo},
+           familyi={R\bibinithyphendelim O\bibinitperiod},
+           given={Cristian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f14c13ced8d9482f2ca6979151a9a688}{%
+           family={Gould},
+           familyi={G\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{6a60cb13010ce1740afdd1e992677943}
+      \strng{fullhash}{83cfbafb63a89daddee96b82378c61a1}
+      \strng{bibnamehash}{6a60cb13010ce1740afdd1e992677943}
+      \strng{authorbibnamehash}{6a60cb13010ce1740afdd1e992677943}
+      \strng{authornamehash}{6a60cb13010ce1740afdd1e992677943}
+      \strng{authorfullhash}{83cfbafb63a89daddee96b82378c61a1}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the IEEE/CVF conference on Computer Vision and Pattern Recognition}
+      \field{title}{Vln bert: A recurrent vision-and-language bert for navigation}
+      \field{year}{2021}
+      \field{pages}{1643\bibrangedash 1653}
+      \range{pages}{11}
+    \endentry
+    \entry{krantz2020navgraphvisionandlanguagenavigationcontinuous}{online}{}
+      \name{author}{5}{}{%
+        {{hash=c6e2741df32882c7ebcdef0e947ee991}{%
+           family={Krantz},
+           familyi={K\bibinitperiod},
+           given={Jacob},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9e9515b35f1161d2ea10f097e0222638}{%
+           family={Wijmans},
+           familyi={W\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod}}}%
+        {{hash=348b9fc8105c18271a052b1463420839}{%
+           family={Majumdar},
+           familyi={M\bibinitperiod},
+           given={Arjun},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d0a408119272ca1bd49b625e3b927d05}{%
+           family={Batra},
+           familyi={B\bibinitperiod},
+           given={Dhruv},
+           giveni={D\bibinitperiod}}}%
+        {{hash=571d2d1449f75b0c538caca8aa9bf4b6}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{d5ee70632d4f8bbe6a7aa832cd042552}
+      \strng{fullhash}{36d1062b169d92e582982d210fd51a71}
+      \strng{bibnamehash}{d5ee70632d4f8bbe6a7aa832cd042552}
+      \strng{authorbibnamehash}{d5ee70632d4f8bbe6a7aa832cd042552}
+      \strng{authornamehash}{d5ee70632d4f8bbe6a7aa832cd042552}
+      \strng{authorfullhash}{36d1062b169d92e582982d210fd51a71}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.CV}
+      \field{eprinttype}{arXiv}
+      \field{title}{Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments}
+      \field{year}{2020}
+      \verb{eprint}
+      \verb 2004.02857
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2004.02857
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2004.02857
+      \endverb
+    \endentry
+    \entry{long2023_discussnav}{article}{}
+      \name{author}{4}{}{%
+        {{hash=da929a7616392d392e05f72fa95f7ec8}{%
+           family={Long},
+           familyi={L\bibinitperiod},
+           given={Yuxing},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=23fabc2f7f05aee2ced2eb2686eca635}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xiaoqi},
+           giveni={X\bibinitperiod}}}%
+        {{hash=36270b311e0fe0c54de88726b5e86428}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Wenzhe},
+           giveni={W\bibinitperiod}}}%
+        {{hash=e16b03661fdfbcf39546885a68509604}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{cf1551954ed3c7c89712d129260da2b2}
+      \strng{fullhash}{3a222fdf7a0a3faf7273189093aa3521}
+      \strng{bibnamehash}{cf1551954ed3c7c89712d129260da2b2}
+      \strng{authorbibnamehash}{cf1551954ed3c7c89712d129260da2b2}
+      \strng{authornamehash}{cf1551954ed3c7c89712d129260da2b2}
+      \strng{authorfullhash}{3a222fdf7a0a3faf7273189093aa3521}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2309.11382}
+      \field{title}{Discuss before moving: Visual language navigation via multi-expert discussions}
+      \field{year}{2023}
+    \endentry
+    \entry{pan2024langnavlanguageperceptualrepresentation}{online}{}
+      \name{author}{7}{}{%
+        {{hash=6eb9a6a6b6bf0093aebd75655cc0a7eb}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Bowen},
+           giveni={B\bibinitperiod}}}%
+        {{hash=6a272e5d0188f348c4bf38376b9035dd}{%
+           family={Panda},
+           familyi={P\bibinitperiod},
+           given={Rameswar},
+           giveni={R\bibinitperiod}}}%
+        {{hash=89f173ae968db3f3a7322c57e0aa3e20}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={SouYoung},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b28550979e1f46d5c67bcd9212bab845}{%
+           family={Feris},
+           familyi={F\bibinitperiod},
+           given={Rogerio},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b7446de83b2320d904225a0730e3389a}{%
+           family={Oliva},
+           familyi={O\bibinitperiod},
+           given={Aude},
+           giveni={A\bibinitperiod}}}%
+        {{hash=cae9f806bc99a5f19fadea538fc2db04}{%
+           family={Isola},
+           familyi={I\bibinitperiod},
+           given={Phillip},
+           giveni={P\bibinitperiod}}}%
+        {{hash=1fecefbf07117382be6f83e7910ea8a0}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Yoon},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{b7408683e00a2e6489a1a9743b5146ff}
+      \strng{fullhash}{39e74c1157fb8ee6526518ec3fcf2892}
+      \strng{bibnamehash}{b7408683e00a2e6489a1a9743b5146ff}
+      \strng{authorbibnamehash}{b7408683e00a2e6489a1a9743b5146ff}
+      \strng{authornamehash}{b7408683e00a2e6489a1a9743b5146ff}
+      \strng{authorfullhash}{39e74c1157fb8ee6526518ec3fcf2892}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.CV}
+      \field{eprinttype}{arXiv}
+      \field{title}{LangNav: Language as a Perceptual Representation for Navigation}
+      \field{year}{2024}
+      \verb{eprint}
+      \verb 2310.07889
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2310.07889
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2310.07889
+      \endverb
+    \endentry
+    \entry{attenion_is_all_you_need}{book}{}
+      \name{author}{8}{}{%
+        {{hash=7f28e84700536646dd6620a0db07ad09}{%
+           family={Vaswani},
+           familyi={V\bibinitperiod},
+           given={Ashish},
+           giveni={A\bibinitperiod}}}%
+        {{hash=62efade83d70f0323fe248755e6c90c5}{%
+           family={Shazeer},
+           familyi={S\bibinitperiod},
+           given={Noam},
+           giveni={N\bibinitperiod}}}%
+        {{hash=06649ebab1ea5cac0250746a19764975}{%
+           family={Parmar},
+           familyi={P\bibinitperiod},
+           given={Niki},
+           giveni={N\bibinitperiod}}}%
+        {{hash=831027ee0ebf22375e2a86afc1881909}{%
+           family={Uszkoreit},
+           familyi={U\bibinitperiod},
+           given={Jakob},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2fd2982e30ebcec93ec1cf76e0d797fd}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Llion},
+           giveni={L\bibinitperiod}}}%
+        {{hash=27b07e4eacbf4ef7a1438e3badb7dd8d}{%
+           family={Gomez},
+           familyi={G\bibinitperiod},
+           given={Aidan\bibnamedelima N},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=540fcd72e1fa4bbed46604f4e6cff817}{%
+           family={Kaiser},
+           familyi={K\bibinitperiod},
+           given={Łukasz},
+           giveni={Ł\bibinitperiod}}}%
+        {{hash=95595a0fefb86187cbc36e551017d332}{%
+           family={Polosukhin},
+           familyi={P\bibinitperiod},
+           given={Illia},
+           giveni={I\bibinitperiod}}}%
+      }
+      \name{editor}{7}{}{%
+        {{hash=e7e74de725116358b68a6e890c026145}{%
+           family={Guyon},
+           familyi={G\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=3b118a9660c18913c6d05d3bcfae41a3}{%
+           family={Luxburg},
+           familyi={L\bibinitperiod},
+           given={U.\bibnamedelimi Von},
+           giveni={U\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=9b411b6c9cefdde16ffea77ecf612142}{%
+           family={Bengio},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1444141e07dd9549dbb4b8530fe4ec15}{%
+           family={Wallach},
+           familyi={W\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=f3857e15544199442f3d4fb2cf6645b4}{%
+           family={Fergus},
+           familyi={F\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c73f06e2fc98c9b0bf52eb5fdce61943}{%
+           family={Vishwanathan},
+           familyi={V\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=36b98b7ab533936cf1b5716148de704f}{%
+           family={Garnett},
+           familyi={G\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Curran Associates, Inc.}%
+      }
+      \strng{namehash}{ee273ab30cfb889666f8c4d806eb9ce7}
+      \strng{fullhash}{cb26e47f6b8133865271fc8483132297}
+      \strng{bibnamehash}{ee273ab30cfb889666f8c4d806eb9ce7}
+      \strng{authorbibnamehash}{ee273ab30cfb889666f8c4d806eb9ce7}
+      \strng{authornamehash}{ee273ab30cfb889666f8c4d806eb9ce7}
+      \strng{authorfullhash}{cb26e47f6b8133865271fc8483132297}
+      \strng{editorbibnamehash}{7cffda9a379be8eb9063eee4eb0f58b3}
+      \strng{editornamehash}{7cffda9a379be8eb9063eee4eb0f58b3}
+      \strng{editorfullhash}{1564f811a39f09a7400a11284c987926}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advances in Neural Information Processing Systems}
+      \field{title}{Attention is All you Need}
+      \field{volume}{30}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
+      \endverb
+      \verb{url}
+      \verb https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
+      \endverb
+    \endentry
+    \entry{zhou2023navgptexplicitreasoningvisionandlanguage}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=1da0d0bb63d553a6aa27f4e00a1fdd3a}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Gengze},
+           giveni={G\bibinitperiod}}}%
+        {{hash=a290e47443e8a29c4c2ad731495b789d}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Yicong},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=ab26ea276dd092108bc9882d0f3195c3}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Qi},
+           giveni={Q\bibinitperiod}}}%
+      }
+      \strng{namehash}{2c5055f75899a011becf9bd69ea68f6b}
+      \strng{fullhash}{2c5055f75899a011becf9bd69ea68f6b}
+      \strng{bibnamehash}{2c5055f75899a011becf9bd69ea68f6b}
+      \strng{authorbibnamehash}{2c5055f75899a011becf9bd69ea68f6b}
+      \strng{authornamehash}{2c5055f75899a011becf9bd69ea68f6b}
+      \strng{authorfullhash}{2c5055f75899a011becf9bd69ea68f6b}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the AAAI Conference on Artificial Intelligence}
+      \field{number}{7}
+      \field{title}{NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models}
+      \field{volume}{38}
+      \field{year}{2024}
+      \field{pages}{7641\bibrangedash 7649}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1609/aaai.v38i7.28597
+      \endverb
+    \endentry
+    \entry{navgpt2}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=1da0d0bb63d553a6aa27f4e00a1fdd3a}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Gengze},
+           giveni={G\bibinitperiod}}}%
+        {{hash=a290e47443e8a29c4c2ad731495b789d}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Yicong},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=3434693524ead28f65c70c859c69c77e}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Zun},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=86175401cb53ccd02043bd399f034e9e}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xin\bibnamedelima Eric},
+           giveni={X\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=ab26ea276dd092108bc9882d0f3195c3}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Qi},
+           giveni={Q\bibinitperiod}}}%
+      }
+      \name{editor}{6}{}{%
+        {{hash=4b50e741a7dba42c324c39c81ef815a9}{%
+           family={Leonardis},
+           familyi={L\bibinitperiod},
+           given={Aleš},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a33944841ee65fd69c36a4585fe3263d}{%
+           family={Ricci},
+           familyi={R\bibinitperiod},
+           given={Elisa},
+           giveni={E\bibinitperiod}}}%
+        {{hash=507b5db9b42e37f1dc7fd50bac7cd869}{%
+           family={Roth},
+           familyi={R\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2a74ec28b731b015747e2af5f0b519e1}{%
+           family={Russakovsky},
+           familyi={R\bibinitperiod},
+           given={Olga},
+           giveni={O\bibinitperiod}}}%
+        {{hash=a5137e6d768f19138ed8c6cfdd862a1d}{%
+           family={Sattler},
+           familyi={S\bibinitperiod},
+           given={Torsten},
+           giveni={T\bibinitperiod}}}%
+        {{hash=ae9ab57e4b78bc8d8d15dd0850fae037}{%
+           family={Varol},
+           familyi={V\bibinitperiod},
+           given={Gül},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature Switzerland}%
+      }
+      \strng{namehash}{84ef6875b778c5f9243ef0fe803d2eeb}
+      \strng{fullhash}{e49890f50efccbde045495aa843f54fe}
+      \strng{bibnamehash}{84ef6875b778c5f9243ef0fe803d2eeb}
+      \strng{authorbibnamehash}{84ef6875b778c5f9243ef0fe803d2eeb}
+      \strng{authornamehash}{84ef6875b778c5f9243ef0fe803d2eeb}
+      \strng{authorfullhash}{e49890f50efccbde045495aa843f54fe}
+      \strng{editorbibnamehash}{7ecf1cd59056deb8971bb63792e474eb}
+      \strng{editornamehash}{7ecf1cd59056deb8971bb63792e474eb}
+      \strng{editorfullhash}{60e06d3f39495a9acc1c0a51ecb627dc}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Computer Vision -- ECCV 2024}
+      \field{isbn}{978-3-031-72667-5}
+      \field{title}{NavGPT-2: Unleashing Navigational Reasoning Capability for Large Vision-Language Models}
+      \field{year}{2025}
+      \field{pages}{260\bibrangedash 278}
+      \range{pages}{19}
     \endentry
   \enddatalist
+  \missing{CITATION_NEEDED}
+  \missing{ConjugateTD}
+  \missing{TD-Replay}
+  \missing{TD0-Replay}
+  \missing{citatation_required}
+  \missing{citation_required}
 \endrefsection
 \endinput
 

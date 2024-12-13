@@ -2361,10 +2361,24 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">lit.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">NuclearPlant</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">TD0-Replay</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">TD-Replay</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">ConjugateTD</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">attenion_is_all_you_need</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">8578485</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">pmlr-v155-anderson21a</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">krantz2020navgraphvisionandlanguagenavigationcontinuous</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">long2023_discussnav</bcf:citekey>
+    <bcf:citekey order="5" intorder="2">chen2024mapgptmapguidedpromptingadaptive</bcf:citekey>
+    <bcf:citekey order="5" intorder="3">zhou2023navgptexplicitreasoningvisionandlanguage</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">CITATION_NEEDED</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">pan2024langnavlanguageperceptualrepresentation</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">hong2021_vlnbert</bcf:citekey>
+    <bcf:citekey order="8" intorder="2">navgpt2</bcf:citekey>
+    <bcf:citekey order="8" intorder="3">chen2021_HAMT</bcf:citekey>
+    <bcf:citekey order="8" intorder="4">HE2024110511_MemoryAdaptiveVLN</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">citatation_required</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">citation_required</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">TD0-Replay</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">TD-Replay</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">ConjugateTD</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
