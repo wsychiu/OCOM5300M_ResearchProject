@@ -28,7 +28,7 @@
     \newline
     Specialist models \cite{hong2021_vlnbert, navgpt2, chen2021_HAMT, HE2024110511_MemoryAdaptiveVLN} are those that either take an off-the-shelf LLM or VLM and finetune the model for the VLN task, or are models (usually consisting of multiple sub-models) specifically finetuned and constructed to tackle the VLN task. These models exhibit much improved performance in VLN tasks, but cannot take advantage of more competent LLMs or VLMs as they are released.
     \newline
-    Against this background, this work proposes to use a finetuned open-source model as its primary VLM, using QLoRA \cite{citatation_required} to finetune the very capable Qwen2-VL-7B variant \cite{citation_required}.
+    Against this background, this work proposes to use a finetuned open-source model as its primary VLM, using Low Rank Adaptation (LoRA) \cite{citatation_required} to finetune the very capable Qwen2-VL-7B variant \cite{citation_required}.
     
 \section{Literature Review}
     \cite{TD0-Replay} has established a new TD(0) method that replays all past experiences. On the hand, \cite{TD-Replay} has taken this further to include a target that incorporates all past updates via TD($\lambda$). \cite{ConjugateTD} applied conjugate gradient update on TD.
