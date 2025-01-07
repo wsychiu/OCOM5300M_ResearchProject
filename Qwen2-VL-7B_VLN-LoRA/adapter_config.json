@@ -19,7 +19,7 @@
   "r": 8,
   "rank_pattern": {},
   "revision": null,
-  "target_modules": "^(?!.*visual).*(?:o_proj|q_proj|up_proj|v_proj|down_proj|k_proj|gate_proj).*",
+  "target_modules": "^(?!.*visual).*(?:q_proj|down_proj|o_proj|k_proj|v_proj|up_proj|gate_proj).*",
   "task_type": "CAUSAL_LM",
   "use_dora": false,
   "use_rslora": false
