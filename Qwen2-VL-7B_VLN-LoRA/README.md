@@ -18,7 +18,7 @@ should probably proofread and complete it, then remove this comment. -->
 
 This model is a fine-tuned version of [Qwen/Qwen2-VL-7B-Instruct](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) on the vln_nav_dataset dataset.
 It achieves the following results on the evaluation set:
-- Loss: 0.2956
+- Loss: 0.3881
 
 ## Model description
 
