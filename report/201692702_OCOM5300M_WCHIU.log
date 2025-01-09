@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.12.10)  8 JAN 2025 22:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.12.10)  9 JAN 2025 09:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -585,7 +585,10 @@ File: figures/DecisionBoundary.png Graphic file (type png)
 <use figures/DecisionBoundary.png>
 Package pdftex.def Info: figures/DecisionBoundary.png  used on input line 69.
 (pdftex.def)             Requested size: 287.57367pt x 189.70828pt.
-[3] [4 <./figures/DecisionBoundary.png>]
+
+Underfull \vbox (badness 2111) has occurred while \output is active []
+
+ [3] [4 <./figures/DecisionBoundary.png>]
 
 Package biblatex Warning: Month out of range
 (biblatex)                at entry 'pmlr-v155-anderson21a' on input line 114.
@@ -600,12 +603,17 @@ Overfull \hbox (18.58598pt too wide) in paragraph at lines 115--115
 \OT1/cmr/m/n/10 Grounded Nav-i-ga-tion In-struc-tions in Real En-vi-ron-ments''. In: \OT1/cmr/m/it/10 2018 IEEE/CVF
  []
 
-
+[5]
 Overfull \hbox (6.30487pt too wide) in paragraph at lines 115--115
 \OT1/cmr/m/n/10 Mod-els''. In: \OT1/cmr/m/it/10 CoRR \OT1/cmr/m/n/10 abs/2106.09685 (2021). arXiv: $\OT1/cmtt/m/n/10 2106 . 09685$\OT1/cmr/m/n/10 . \OT1/cmr/m/sc/10 url\OT1/cmr/m/n/10 : $\OT1/cmtt/m/n/10 https :
  []
 
-[5]
+
+Overfull \hbox (9.36159pt too wide) in paragraph at lines 115--115
+[]\OT1/cmr/m/n/10 Alexander Ku et al. ``Room-Across-Room: Mul-ti-lin-gual Vision-and-Language
+ []
+
+
 Overfull \hbox (56.92877pt too wide) in paragraph at lines 115--115
 \OT1/cmtt/m/n/10 neurips . cc / paper _ files / paper / 2017 / file / 3f5ee243547dee91fbd053c1c4a845aa -[]
  []
@@ -615,7 +623,7 @@ Overfull \hbox (17.25027pt too wide) in paragraph at lines 115--115
 []\OT1/cmr/m/n/10 An Yang et al. ``Qwen2 Tech-ni-cal Re-port''. In: \OT1/cmr/m/it/10 arXiv preprint arXiv:2407.10671
  []
 
-[6] (./201692702_OCOM5300M_WCHIU.aux)
+[6] [7] (./201692702_OCOM5300M_WCHIU.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -625,18 +633,18 @@ Package logreq Info: Writing requests to '201692702_OCOM5300M_WCHIU.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10642 strings out of 476182
- 198970 string characters out of 5795594
- 1934975 words of memory out of 5000000
- 32554 multiletter control sequences out of 15000+600000
+ 10658 strings out of 476182
+ 199647 string characters out of 5795594
+ 1936975 words of memory out of 5000000
+ 32570 multiletter control sequences out of 15000+600000
  565888 words of font info for 63 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  66i,12n,81p,1146b,1399s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on 201692702_OCOM5300M_WCHIU.pdf (6 pages, 228788 bytes).
+Output written on 201692702_OCOM5300M_WCHIU.pdf (7 pages, 231236 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
- 60 compressed objects within 1 object stream
+ 106 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

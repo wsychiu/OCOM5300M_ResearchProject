@@ -2379,6 +2379,11 @@
     <bcf:citekey order="10" intorder="1">8578485</bcf:citekey>
     <bcf:citekey order="11" intorder="1">pan2024langnavlanguageperceptualrepresentation</bcf:citekey>
     <bcf:citekey order="12" intorder="1">qwen2</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">Matterport3D</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">habitat19iccv</bcf:citekey>
+    <bcf:citekey order="14" intorder="2">szot2021habitat</bcf:citekey>
+    <bcf:citekey order="14" intorder="3">puig2023habitat3</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">rxr</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
