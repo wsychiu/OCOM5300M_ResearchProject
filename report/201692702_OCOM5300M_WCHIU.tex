@@ -52,7 +52,7 @@
     
     \textbf{Datasets and Simulation}  Matterport3D \cite{Matterport3D}, Habitat-Sim \cite{habitat19iccv, szot2021habitat, puig2023habitat3}, RxR \cite{rxr}.
 
-    \textbf{Data Generation for Continuous Environment}  The ground-truth trajectory provided by the RxR dataset was created based on a node-based navigation system, which allows an agent to move from one node to another without considering navigational obstacles between nodes. This is insufficient for finetuning the model for use in a continuous environment. In order to generate training data to finetune the VLM, 
+    \textbf{Data Generation for Continuous Environment}  The ground-truth trajectory provided by the RxR dataset was created based on a node-based navigation system, which allows an agent to move from one node to another without considering navigational obstacles between nodes. This is insufficient for finetuning the model for use in a continuous environment and has proven to be one of the obstacles in translating graph-based models into real world environments \cite{pmlr-v155-anderson21a}. In order to generate training data to finetune the VLM, 
 
     
 

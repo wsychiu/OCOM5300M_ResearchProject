@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.12.10)  9 JAN 2025 09:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.12.10)  10 JAN 2025 20:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -585,10 +585,7 @@ File: figures/DecisionBoundary.png Graphic file (type png)
 <use figures/DecisionBoundary.png>
 Package pdftex.def Info: figures/DecisionBoundary.png  used on input line 69.
 (pdftex.def)             Requested size: 287.57367pt x 189.70828pt.
-
-Underfull \vbox (badness 2111) has occurred while \output is active []
-
- [3] [4 <./figures/DecisionBoundary.png>]
+[3] [4 <./figures/DecisionBoundary.png>]
 
 Package biblatex Warning: Month out of range
 (biblatex)                at entry 'pmlr-v155-anderson21a' on input line 114.
@@ -641,7 +638,7 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  66i,12n,81p,1146b,1399s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on 201692702_OCOM5300M_WCHIU.pdf (7 pages, 231236 bytes).
+Output written on 201692702_OCOM5300M_WCHIU.pdf (7 pages, 231319 bytes).
 PDF statistics:
  106 PDF objects out of 1000 (max. 8388607)
  64 compressed objects within 1 object stream
