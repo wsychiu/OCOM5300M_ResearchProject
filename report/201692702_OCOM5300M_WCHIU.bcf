@@ -2368,7 +2368,7 @@
     <bcf:citekey order="5" intorder="1">long2023_discussnav</bcf:citekey>
     <bcf:citekey order="5" intorder="2">chen2024mapgptmapguidedpromptingadaptive</bcf:citekey>
     <bcf:citekey order="5" intorder="3">zhou2023navgptexplicitreasoningvisionandlanguage</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">CITATION_REQUIRED</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">openai2024gpt4technicalreport</bcf:citekey>
     <bcf:citekey order="7" intorder="1">51647</bcf:citekey>
     <bcf:citekey order="7" intorder="2">LMs_as_knowledge_bases</bcf:citekey>
     <bcf:citekey order="8" intorder="1">hong2021_vlnbert</bcf:citekey>
@@ -2377,14 +2377,47 @@
     <bcf:citekey order="8" intorder="4">HE2024110511_MemoryAdaptiveVLN</bcf:citekey>
     <bcf:citekey order="9" intorder="1">LoRA</bcf:citekey>
     <bcf:citekey order="10" intorder="1">8578485</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">pan2024langnavlanguageperceptualrepresentation</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">qwen2</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">Matterport3D</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">habitat19iccv</bcf:citekey>
-    <bcf:citekey order="14" intorder="2">szot2021habitat</bcf:citekey>
-    <bcf:citekey order="14" intorder="3">puig2023habitat3</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">rxr</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">pmlr-v155-anderson21a</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">8578485</bcf:citekey>
+    <bcf:citekey order="11" intorder="2">8954045</bcf:citekey>
+    <bcf:citekey order="11" intorder="3">8953608</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">attenion_is_all_you_need</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">radford2018improving</bcf:citekey>
+    <bcf:citekey order="13" intorder="2">touvron2023llamaopenefficientfoundation</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">pan2024langnavlanguageperceptualrepresentation</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">zhou2023navgptexplicitreasoningvisionandlanguage</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">li2022blipbootstrappinglanguageimagepretraining</bcf:citekey>
+    <bcf:citekey order="16" intorder="2">li2023blip2bootstrappinglanguageimagepretraining</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">zhu2021deformabledetrdeformabletransformers</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">open-nav</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">long2023_discussnav</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">lin2024navcotboostingllmbasedvisionandlanguage</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">9156554</bcf:citekey>
+    <bcf:citekey order="21" intorder="2">Guhur_2021_ICCV</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">pan2024langnavlanguageperceptualrepresentation</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">chen2024mapgptmapguidedpromptingadaptive</bcf:citekey>
+    <bcf:citekey order="23" intorder="2">pan2024langnavlanguageperceptualrepresentation</bcf:citekey>
+    <bcf:citekey order="23" intorder="3">zhou2023navgptexplicitreasoningvisionandlanguage</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">zhou2023navgptexplicitreasoningvisionandlanguage</bcf:citekey>
+    <bcf:citekey order="24" intorder="2">51647</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">open-nav</bcf:citekey>
+    <bcf:citekey order="25" intorder="2">navgpt2</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">chen2021_HAMT</bcf:citekey>
+    <bcf:citekey order="26" intorder="2">HE2024110511_MemoryAdaptiveVLN</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">HE2024110511_MemoryAdaptiveVLN</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">Matterport3D</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">Matterport3D</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">mattersim</bcf:citekey>
+    <bcf:citekey order="30" intorder="2">rxr</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">habitat19iccv</bcf:citekey>
+    <bcf:citekey order="31" intorder="2">szot2021habitat</bcf:citekey>
+    <bcf:citekey order="31" intorder="3">puig2023habitat3</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">Qwen-VL</bcf:citekey>
+    <bcf:citekey order="32" intorder="2">Qwen2VL</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">vlm_leaderboard</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">LoRA</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">MLSYS2024_42a452cb</bcf:citekey>
+    <bcf:citekey order="36" intorder="1">zheng2024llamafactory</bcf:citekey>
+    <bcf:citekey order="37" intorder="1">openai2024gpt4technicalreport</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
