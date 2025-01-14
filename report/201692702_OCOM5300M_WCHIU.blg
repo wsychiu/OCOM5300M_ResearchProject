@@ -1,18 +1,20 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is '201692702_OCOM5300M_WCHIU.blg'
-[38] biber:340> INFO - === Sun Jan 12, 2025, 23:43:31
+[38] biber:340> INFO - === Tue Jan 14, 2025, 00:01:09
 [45] Biber.pm:419> INFO - Reading '201692702_OCOM5300M_WCHIU.bcf'
-[75] Biber.pm:979> INFO - Found 38 citekeys in bib section 0
-[81] Biber.pm:4419> INFO - Processing section 0
-[86] Biber.pm:4610> INFO - Looking for bibtex file 'lit.bib' for section 0
-[87] bibtex.pm:1713> INFO - LaTeX decoding ...
-[102] bibtex.pm:1519> INFO - Found BibTeX data source 'lit.bib'
-[541] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[541] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[541] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[541] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[564] bbl.pm:660> INFO - Writing '201692702_OCOM5300M_WCHIU.bbl' with encoding 'UTF-8'
-[595] bbl.pm:763> INFO - Output to 201692702_OCOM5300M_WCHIU.bbl
-[595] Biber.pm:131> WARN - legacy month field '16--18 Nov' in entry 'pmlr-v155-anderson21a' is not an integer - this will probably not sort properly.
-[595] Biber.pm:131> WARN - legacy month field 'October' in entry 'Guhur_2021_ICCV' is not an integer - this will probably not sort properly.
-[596] Biber.pm:133> INFO - WARNINGS: 2
+[77] Biber.pm:979> INFO - Found 50 citekeys in bib section 0
+[83] Biber.pm:4419> INFO - Processing section 0
+[88] Biber.pm:4610> INFO - Looking for bibtex file 'lit.bib' for section 0
+[91] bibtex.pm:1713> INFO - LaTeX decoding ...
+[112] bibtex.pm:1519> INFO - Found BibTeX data source 'lit.bib'
+[1481] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1481] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1481] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[1481] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[1528] bbl.pm:660> INFO - Writing '201692702_OCOM5300M_WCHIU.bbl' with encoding 'UTF-8'
+[1873] bbl.pm:763> INFO - Output to 201692702_OCOM5300M_WCHIU.bbl
+[1873] Biber.pm:131> WARN - legacy month field '16--18 Nov' in entry 'pmlr-v155-anderson21a' is not an integer - this will probably not sort properly.
+[1873] Biber.pm:131> WARN - legacy month field 'October' in entry 'Guhur_2021_ICCV' is not an integer - this will probably not sort properly.
+[1873] Biber.pm:131> WARN - legacy month field 'December' in entry 'Nguyen-Mau_2024_ACCV' is not an integer - this will probably not sort properly.
+[1873] Biber.pm:131> WARN - I didn't find a database entry for 'chen2024mapgptmapguidedpromptingadaptive' (section 0)
+[1873] Biber.pm:133> INFO - WARNINGS: 4
